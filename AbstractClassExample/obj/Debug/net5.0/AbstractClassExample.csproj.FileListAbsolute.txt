@@ -13,3 +13,4 @@ C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractC
 C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\ref\AbstractClassExample.dll
 C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.pdb
 C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.genruntimeconfig.cache
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.csproj.AssemblyReference.cache

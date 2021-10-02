@@ -6,7 +6,7 @@ using System;
 namespace AbstractClassTesting
 {
     [TestClass]
-    public class UnitTest1
+    public class TestOldWay
     {
         [TestMethod]
         public void TestAirCraft737FlightTimeGeneration()
@@ -14,32 +14,45 @@ namespace AbstractClassTesting
 
             DateTime TakeOffTime = new DateTime(2021,10,2,5,0,0);
             DateTime LandingTime = new DateTime(2021,10,2,8,0,0);
-            Aircraft737 A = new Aircraft737();
+            Aircraft A = new Aircraft();
             TimeSpan T = A.CalculateFlightTime(TakeOffTime,LandingTime);
             Assert.AreEqual(3, T.TotalHours);
 
         }
 
         [TestMethod]
-        public void TestFightRoute737Pass()
+        public void TestFightRouteAircraftPass()
         {
             Route MyRoute = new Route();
-            Aircraft737 A = new Aircraft737();
+            Aircraft A = new Aircraft();
             MyRoute.AddLeg(500);
             bool FuelCheckPass = MyRoute.CheckFuelAgainstRoute(A.FuelCapacity,A.GallonsPerMinuteInFlight);
 
             Assert.AreEqual(true, FuelCheckPass);
         }
 
+
         [TestMethod]
-        public void TestFightRoute737Fail()
+        public void TestFightRouteAircraftFail()
         {
             Route MyRoute = new Route();
-            Aircraft737 A = new Aircraft737();
+            Aircraft A = new Aircraft();
             MyRoute.AddLeg(10000);
             bool FuelCheckPass = MyRoute.CheckFuelAgainstRoute(A.FuelCapacity, A.GallonsPerMinuteInFlight);
 
             Assert.AreEqual(false, FuelCheckPass);
+        }
+
+        [TestMethod]
+        public void TestAirCraftFlightTimeGenerationWithWakeTurbulenceMedium()
+        {
+
+            DateTime TakeOffTime = new DateTime(2021, 10, 2, 5, 0, 0);
+            DateTime LandingTime = new DateTime(2021, 10, 2, 7, 0, 0);
+            Aircraft A = new Aircraft();
+            TimeSpan T = A.CalculateFlightTimeWithIdle(TakeOffTime, LandingTime,General.WakeTurbulenceCategoryEnum.MEDIUM);
+            Assert.AreEqual(123, T.TotalMinutes);
+
         }
     }
 }
