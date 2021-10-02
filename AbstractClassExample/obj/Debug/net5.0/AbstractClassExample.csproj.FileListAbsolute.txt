@@ -1,0 +1,15 @@
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.AssemblyInfoInputs.cache
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.AssemblyInfo.cs
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.csproj.CoreCompileInputs.cache
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.exe
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.deps.json
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.runtimeconfig.json
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.runtimeconfig.dev.json
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.dll
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\ref\AbstractClassExample.dll
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\bin\Debug\net5.0\AbstractClassExample.pdb
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.dll
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\ref\AbstractClassExample.dll
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.pdb
+C:\code\WhenToUseAnAbstractClass\AbstractClassExample\obj\Debug\net5.0\AbstractClassExample.genruntimeconfig.cache
