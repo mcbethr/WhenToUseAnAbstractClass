@@ -21,5 +21,12 @@ namespace AbstractClassTesting
 
         }
 
+        [TestMethod]
+        public void Test707MultipleInheratance()
+        {
+            Aircraft707 MyAirCraft = new Aircraft707();
+            Assert.AreEqual(true, MyAirCraft.ManifestCheck());
+        }
+
     }
 }
