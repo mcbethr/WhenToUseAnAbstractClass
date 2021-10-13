@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractClassExample.AbstractWay
 {
     /// <summary>
-    /// You can't do this.  No multiple inheratance.
+    /// No multiple inheratance but you can do this
     /// </summary>
     public abstract class AbstractJet : AbstractAircraft
     {

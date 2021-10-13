@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUTb8bAMiStnYodq2I6nZzk/N3H37hozLyI5MPcDyd3YVnQVmQOrJx5YoX3NL/JNxngRLfvXMugxqAAQRKphdA==",
+  "dgSpecHash": "1rhIsAOXInY+mz9RFT3Z6bVnx79rcR06/VQE6pv1Voo9FiOTy3stRFsluGLjTG/loA3C/bUU61h1T0cBiJ2leg==",
   "success": true,
-  "projectFilePath": "C:\\code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
+  "projectFilePath": "C:\\Code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

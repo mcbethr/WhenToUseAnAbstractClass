@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ryanm\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
+      "projectUniqueName": "C:\\Code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
       "projectName": "AbstractClassExample",
-      "projectPath": "C:\\code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
-      "packagesPath": "C:\\Users\\ryanm\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\WhenToUseAnAbstractClass\\AbstractClassExample\\obj\\",
+      "projectPath": "C:\\Code\\WhenToUseAnAbstractClass\\AbstractClassExample\\AbstractClassExample.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\WhenToUseAnAbstractClass\\AbstractClassExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ryanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

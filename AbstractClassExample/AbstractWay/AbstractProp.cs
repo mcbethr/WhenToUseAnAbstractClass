@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace AbstractClassExample.AbstractWay
 {
+    /// <summary>
+    /// No multiple inheratance but you can do this
+    /// </summary>
     public abstract class AbstractProp : AbstractAircraft
     {
 
